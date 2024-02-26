@@ -34,3 +34,7 @@ function btnHandler() {
   // Output Results
   outputEl.innerHTML = `<img src="img/${coin1}.png"> <img src="img/${coin2}.png"> <img src="img/${coin3}.png">`;
 }
+
+function flipCoin() {
+  
+}
